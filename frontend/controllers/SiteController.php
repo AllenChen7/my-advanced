@@ -1,6 +1,7 @@
 <?php
 namespace frontend\controllers;
 
+use frontend\models\EntryForm;
 use Yii;
 use yii\base\InvalidParamException;
 use yii\web\BadRequestHttpException;
@@ -221,5 +222,20 @@ class SiteController extends Controller
         return $this->render('say', [
             'message' => $message
             ]);
+    }
+
+    public function actionEntryFrom()
+    {
+        $model = new EntryForm();
+
+        if ($model->load(Yii::$app->request->post()) && $model->validate()) {
+            return $this->render('entry-confirm', [
+                'model' => $model
+            ]);
+        } else {
+            return $this->render('entry', [
+                'model' => $model
+            ]);
+        }
     }
 }
