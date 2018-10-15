@@ -213,6 +213,9 @@ class SiteController extends Controller
         ]);
     }
 
+    /**
+     * 测试
+     */
     public function actionSay($message = 'hello')
     {
         return $this->render('say', [
