@@ -11,6 +11,8 @@ return [
     'basePath' => dirname(__DIR__),
     'bootstrap' => ['log'],
     'controllerNamespace' => 'frontend\controllers',
+    // 应用名称
+    'name' => 'My Adv',
     'components' => [
         'request' => [
             'csrfParam' => '_csrf-frontend',
@@ -43,5 +45,10 @@ return [
             ],
         ],
     ],
+//    'catchAll' => [
+//        'offline/notice',
+//        'param1' => 'value1',
+//        'param2' => 'value2',
+//    ],
     'params' => $params,
 ];
