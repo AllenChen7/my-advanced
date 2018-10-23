@@ -1,6 +1,7 @@
 <?php
 namespace frontend\controllers;
 
+use common\models\User;
 use frontend\models\EntryForm;
 use Yii;
 use yii\base\InvalidParamException;
@@ -13,6 +14,7 @@ use frontend\models\PasswordResetRequestForm;
 use frontend\models\ResetPasswordForm;
 use frontend\models\SignupForm;
 use frontend\models\ContactForm;
+use frontend\components\ActionTimeFilter;
 
 /**
  * Site controller
@@ -27,6 +29,7 @@ class SiteController extends Controller
         return [
             'access' => [
                 'class' => AccessControl::className(),
+//                'class' => ActionTimeFilter::className(),
                 'only' => ['logout', 'signup', 'say'],
                 'rules' => [
                     [
@@ -219,9 +222,18 @@ class SiteController extends Controller
      */
     public function actionSay($message = 'hello')
     {
+//        $foo = new User();
+//
+//        $foo->on(User::EVENT_INIT, 'function_name', 'abc');
+
+        $model = User::findOne(1);
         return $this->render('say', [
-            'message' => $message
+            'message' => $message,
+            'model' => $model
             ]);
+    }
+    function function_name($event) {
+        echo $event->data;
     }
 
     public function actionEntryFrom()

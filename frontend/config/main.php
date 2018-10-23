@@ -31,7 +31,19 @@ return [
             'targets' => [
                 [
                     'class' => 'yii\log\FileTarget',
-                    'levels' => ['error', 'warning'],
+                    'levels' => ['error', 'warning', 'info', 'trace'],
+                ],
+                [
+                    // 当错误等级为 error 时发送邮件到目标邮件
+                    // 需配置好邮件配置
+                    'class' => 'yii\log\EmailTarget',
+                    'levels' => ['error'],
+                    'mailer' => 'mailer',
+                    'message' => [
+                        'from' => ['17621598511@163.com'],
+                        'to' => ['1175195335@qq.com'],
+                        'subject' => '系统发生错误',
+                    ],
                 ],
             ],
         ],
