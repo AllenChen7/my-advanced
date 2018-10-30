@@ -2,9 +2,12 @@
 
 namespace frontend\controllers;
 
+use frontend\components\MyTestBehavior;
+use frontend\components\MyTestClass;
 use Yii;
 use frontend\models\Country;
 use frontend\models\CountrySearch;
+use yii\helpers\VarDumper;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
@@ -123,5 +126,14 @@ class CountryController extends Controller
         }
 
         throw new NotFoundHttpException(Yii::t('app', 'The requested page does not exist.'));
+    }
+
+    public function actionTest()
+    {
+        $one = new MyTestClass();
+        $other = new MyTestBehavior();
+        $one->attachBehavior('myTestBehavior', $other);
+        echo $one->haveOne();
+        VarDumper::dump($one->owner, 10, true);
     }
 }
