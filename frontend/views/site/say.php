@@ -53,3 +53,18 @@ use yii\bootstrap\Alert;
 <?php //Yii::error('你猜猜发生了什么', __METHOD__); ?>
 
 <?php //throw new \yii\web\NotFoundHttpException('并不存在');?>
+
+
+<?php $form = ActiveForm::begin(['options' => ['enctype' => 'multipart/form-data']]) ?>
+
+<?= $form->field($model, 'auth_key')->fileInput() ?>
+
+<button>Submit</button>
+
+<?php ActiveForm::end() ?>
+
+
+<form action="/site/upload" method="post" enctype="multipart/form-data">
+    <input name="file" type="file">
+    <input type="submit" value="tijiao">
+</form>

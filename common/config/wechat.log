@@ -1,0 +1,558 @@
+[2018-11-02 11:22:28] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/library/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":1}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:22:28 GMT
+Content-Length: 100
+
+{"errcode":0,"errmsg":"ok","list":[{"id":"AT0005","title":"付款成功通知"}],"total_count":2431}
+--------
+NULL  
+[2018-11-02 11:29:49] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/library/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":1}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:29:49 GMT
+Content-Length: 100
+
+{"errcode":0,"errmsg":"ok","list":[{"id":"AT0005","title":"付款成功通知"}],"total_count":2431}
+--------
+NULL  
+[2018-11-02 11:30:05] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/library/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":1}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:30:05 GMT
+Content-Length: 100
+
+{"errcode":0,"errmsg":"ok","list":[{"id":"AT0005","title":"付款成功通知"}],"total_count":2431}
+--------
+NULL  
+[2018-11-02 11:30:05] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":3}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:30:05 GMT
+Content-Length: 37
+
+{"errcode":0,"errmsg":"ok","list":[]}
+--------
+NULL  
+[2018-11-02 11:31:12] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/library/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":1}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:31:12 GMT
+Content-Length: 100
+
+{"errcode":0,"errmsg":"ok","list":[{"id":"AT0005","title":"付款成功通知"}],"total_count":2431}
+--------
+NULL  
+[2018-11-02 11:31:12] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/library/get?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 15
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"id":"AT0005"}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:31:12 GMT
+Content-Length: 6642
+
+{"errcode":0,"errmsg":"ok","id":"AT0005","title":"付款成功通知","keyword_list":[{"keyword_id":1,"name":"物品名称","example":"果汁"},{"keyword_id":2,"name":"付款时间","example":"2016年9月9日"},{"keyword_id":3,"name":"付款金额","example":"8元"},{"keyword_id":4,"name":"地点","example":"TIT时尚造舰中心"},{"keyword_id":5,"name":"产品名称","example":"国泰基金3367期"},{"keyword_id":6,"name":"累计净值","example":"1.0000"},{"keyword_id":7,"name":"产品期限","example":"18个月"},{"keyword_id":8,"name":"投资日期","example":"2017-01-09"},{"keyword_id":9,"name":"投资金额","example":"￥1,000,000.00"},{"keyword_id":10,"name":"付款ID","example":"18181818"},{"keyword_id":11,"name":"酒店名","example":"希尔顿酒店"},{"keyword_id":12,"name":"单号","example":"12345567"},{"keyword_id":13,"name":"商家名称","example":"早安豆浆店"},{"keyword_id":14,"name":"车牌号","example":"苏A00000"},{"keyword_id":15,"name":"服务项目","example":"汽车保养"},{"keyword_id":16,"name":"门店","example":"汽车4s店"},{"keyword_id":17,"name":"租金月份","example":"2017年03月"},{"keyword_id":18,"name":"支付时间","example":"2017-03-17 15:00:23"},{"keyword_id":19,"name":"支付租金","example":"1200"},{"keyword_id":20,"name":"房间号","example":"1305"},{"keyword_id":21,"name":"实付金额","example":"100元"},{"keyword_id":22,"name":"订单编号","example":"123658635455"},{"keyword_id":23,"name":"商品详情","example":"美式咖啡x1"},{"keyword_id":24,"name":"支付方式","example":"微信支付"},{"keyword_id":25,"name":"备注说明","example":"加奶"},{"keyword_id":26,"name":"预订场地","example":"恒生科技园"},{"keyword_id":27,"name":"商品信息","example":"鱼香肉丝"},{"keyword_id":28,"name":"学费 ","example":"C1    C2"},{"keyword_id":29,"name":"付款人","example":"王**"},{"keyword_id":30,"name":"数量","example":"1"},{"keyword_id":31,"name":"收货地址","example":"广东省广州市白云区白云大道103号"},{"keyword_id":32,"name":"订单总价","example":"100.00"},{"keyword_id":33,"name":"下单时间","example":"2017.07.07"},{"keyword_id":34,"name":"课程名称","example":"如何打造爆品文章"},{"keyword_id":35,"name":"开课时间","example":"2017-01-04  20:30"},{"keyword_id":36,"name":"授课讲师","example":"王老师"},{"keyword_id":37,"name":"账户余额","example":"¥ 12200.00"},{"keyword_id":38,"name":"发票抬头","example":"陕西同纳信息技术有限公司"},{"keyword_id":39,"name":"纳税人识别号","example":"91610131786995379C"},{"keyword_id":40,"name":"使用时段","example":"7月28日 15:00 至 7月28日18:00"},{"keyword_id":41,"name":"场地电话","example":"0755-78900002"},{"keyword_id":42,"name":"寄养人","example":"寄养人   "},{"keyword_id":43,"name":"寄养品种    ","example":"寄养品种       "},{"keyword_id":44,"name":"寄养日期    ","example":"寄养日期    "},{"keyword_id":45,"name":"疫苗情况  ","example":"疫苗情况   "},{"keyword_id":46,"name":"年龄","example":"年龄   "},{"keyword_id":47,"name":"手机型号","example":"R11"},{"keyword_id":48,"name":"颜色","example":"玫瑰金"},{"keyword_id":49,"name":"价格","example":"2999"},{"keyword_id":50,"name":"取机地址","example":"八一路一峰斜对面oppo专卖店"},{"keyword_id":51,"name":"开始时间","example":"2017-08-11 16:20"},{"keyword_id":52,"name":"结束时间","example":"2017-08-11 16:50"},{"keyword_id":53,"name":"取货位置","example":"北京市大兴区高米店南红木林1-2-3"},{"keyword_id":54,"name":"送货位置","example":"北京市大兴区高米店南红木林1-2-3"},{"keyword_id":55,"name":"联系电话","example":"19876543212"},{"keyword_id":56,"name":"共计公里数","example":"12.00公里"},{"keyword_id":57,"name":"共计金额","example":"200.00元"},{"keyword_id":58,"name":"付费类型","example":"付费阅读"},{"keyword_id":59,"name":"订单状态","example":"待支付"},{"keyword_id":60,"name":"线路名称","example":"呼伦贝尔北线"},{"keyword_id":61,"name":"出发时间","example":"2017-07-03"},{"keyword_id":62,"name":"温馨提示","example":"您的订单已付款成功，具体详情请查看订单详情"},{"keyword_id":63,"name":"场地数量","example":"2个"},{"keyword_id":64,"name":"姓名","example":"李三"},{"keyword_id":65,"name":"身份证号","example":"6xxxxxxxxxxxxxx"},{"keyword_id":66,"name":"收款方","example":"创骐云课堂"},{"keyword_id":67,"name":"商品数量","example":"1个"},{"keyword_id":68,"name":"订单验证码","example":"112233"},{"keyword_id":69,"name":"使用时长","example":"30分钟"},{"keyword_id":70,"name":"商品类型","example":"农产品、服务"},{"keyword_id":71,"name":"信息费","example":"10"},{"keyword_id":72,"name":"产品型号","example":"DG-8018-家用"},{"keyword_id":73,"name":"价位","example":"3600元"},{"keyword_id":74,"name":"尺寸","example":"290mm*290mm*790mm（10kg）"},{"keyword_id":75,"name":"电压","example":"220v\/50hz，功率：~65W"},{"keyword_id":76,"name":"颗粒物负离子","example":"600立方米\/1000万PCS立方米"},{"keyword_id":77,"name":"取货地址","example":"中华广场1楼201桃园文化馆"},{"keyword_id":78,"name":"取货时间","example":"11月15日 18:00~20:00"},{"keyword_id":79,"name":"取货码","example":"501"},{"keyword_id":80,"name":"优惠卡号","example":"17000201710161001"},{"keyword_id":81,"name":"优惠数量","example":"10个"},{"keyword_id":82,"name":"支付明细","example":"积分5，现金20"},{"keyword_id":83,"name":"课时费","example":"100"},{"keyword_id":84,"name":"年费","example":"3800"},{"keyword_id":85,"name":"就餐人数","example":"3人"},{"keyword_id":86,"name":"预约医生","example":"扁鹊"},{"keyword_id":87,"name":"预约时间","example":"2017-10-19"},{"keyword_id":88,"name":"押金金额","example":"¥298.00"},{"keyword_id":89,"name":"活动名称","example":"公益画展"},{"keyword_id":90,"name":"话费","example":"话费"},{"keyword_id":91,"name":"积分","example":"积分"},{"keyword_id":92,"name":"联系客服","example":"客服"},{"keyword_id":93,"name":"订单优惠","example":"50.00"},{"keyword_id":94,"name":"转账时间","example":"2018-01-23   16：45：41"},{"keyword_id":95,"name":"桌位名称","example":"2号桌位"},{"keyword_id":96,"name":"服务费","example":"1000"},{"keyword_id":97,"name":"认证费","example":"100"},{"keyword_id":98,"name":"服务内容","example":"CAD制图3张，LOGO设计1个"},{"keyword_id":99,"name":"业务经理","example":"张三"},{"keyword_id":100,"name":"手机号","example":"1380000000"}]}
+--------
+NULL  
+[2018-11-02 11:31:12] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":3}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:31:12 GMT
+Content-Length: 37
+
+{"errcode":0,"errmsg":"ok","list":[]}
+--------
+NULL  
+[2018-11-02 11:33:54] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/library/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":1}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:33:54 GMT
+Content-Length: 100
+
+{"errcode":0,"errmsg":"ok","list":[{"id":"AT0005","title":"付款成功通知"}],"total_count":2431}
+--------
+NULL  
+[2018-11-02 11:33:54] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/library/get?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 15
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"id":"AT0005"}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:33:54 GMT
+Content-Length: 6642
+
+{"errcode":0,"errmsg":"ok","id":"AT0005","title":"付款成功通知","keyword_list":[{"keyword_id":1,"name":"物品名称","example":"果汁"},{"keyword_id":2,"name":"付款时间","example":"2016年9月9日"},{"keyword_id":3,"name":"付款金额","example":"8元"},{"keyword_id":4,"name":"地点","example":"TIT时尚造舰中心"},{"keyword_id":5,"name":"产品名称","example":"国泰基金3367期"},{"keyword_id":6,"name":"累计净值","example":"1.0000"},{"keyword_id":7,"name":"产品期限","example":"18个月"},{"keyword_id":8,"name":"投资日期","example":"2017-01-09"},{"keyword_id":9,"name":"投资金额","example":"￥1,000,000.00"},{"keyword_id":10,"name":"付款ID","example":"18181818"},{"keyword_id":11,"name":"酒店名","example":"希尔顿酒店"},{"keyword_id":12,"name":"单号","example":"12345567"},{"keyword_id":13,"name":"商家名称","example":"早安豆浆店"},{"keyword_id":14,"name":"车牌号","example":"苏A00000"},{"keyword_id":15,"name":"服务项目","example":"汽车保养"},{"keyword_id":16,"name":"门店","example":"汽车4s店"},{"keyword_id":17,"name":"租金月份","example":"2017年03月"},{"keyword_id":18,"name":"支付时间","example":"2017-03-17 15:00:23"},{"keyword_id":19,"name":"支付租金","example":"1200"},{"keyword_id":20,"name":"房间号","example":"1305"},{"keyword_id":21,"name":"实付金额","example":"100元"},{"keyword_id":22,"name":"订单编号","example":"123658635455"},{"keyword_id":23,"name":"商品详情","example":"美式咖啡x1"},{"keyword_id":24,"name":"支付方式","example":"微信支付"},{"keyword_id":25,"name":"备注说明","example":"加奶"},{"keyword_id":26,"name":"预订场地","example":"恒生科技园"},{"keyword_id":27,"name":"商品信息","example":"鱼香肉丝"},{"keyword_id":28,"name":"学费 ","example":"C1    C2"},{"keyword_id":29,"name":"付款人","example":"王**"},{"keyword_id":30,"name":"数量","example":"1"},{"keyword_id":31,"name":"收货地址","example":"广东省广州市白云区白云大道103号"},{"keyword_id":32,"name":"订单总价","example":"100.00"},{"keyword_id":33,"name":"下单时间","example":"2017.07.07"},{"keyword_id":34,"name":"课程名称","example":"如何打造爆品文章"},{"keyword_id":35,"name":"开课时间","example":"2017-01-04  20:30"},{"keyword_id":36,"name":"授课讲师","example":"王老师"},{"keyword_id":37,"name":"账户余额","example":"¥ 12200.00"},{"keyword_id":38,"name":"发票抬头","example":"陕西同纳信息技术有限公司"},{"keyword_id":39,"name":"纳税人识别号","example":"91610131786995379C"},{"keyword_id":40,"name":"使用时段","example":"7月28日 15:00 至 7月28日18:00"},{"keyword_id":41,"name":"场地电话","example":"0755-78900002"},{"keyword_id":42,"name":"寄养人","example":"寄养人   "},{"keyword_id":43,"name":"寄养品种    ","example":"寄养品种       "},{"keyword_id":44,"name":"寄养日期    ","example":"寄养日期    "},{"keyword_id":45,"name":"疫苗情况  ","example":"疫苗情况   "},{"keyword_id":46,"name":"年龄","example":"年龄   "},{"keyword_id":47,"name":"手机型号","example":"R11"},{"keyword_id":48,"name":"颜色","example":"玫瑰金"},{"keyword_id":49,"name":"价格","example":"2999"},{"keyword_id":50,"name":"取机地址","example":"八一路一峰斜对面oppo专卖店"},{"keyword_id":51,"name":"开始时间","example":"2017-08-11 16:20"},{"keyword_id":52,"name":"结束时间","example":"2017-08-11 16:50"},{"keyword_id":53,"name":"取货位置","example":"北京市大兴区高米店南红木林1-2-3"},{"keyword_id":54,"name":"送货位置","example":"北京市大兴区高米店南红木林1-2-3"},{"keyword_id":55,"name":"联系电话","example":"19876543212"},{"keyword_id":56,"name":"共计公里数","example":"12.00公里"},{"keyword_id":57,"name":"共计金额","example":"200.00元"},{"keyword_id":58,"name":"付费类型","example":"付费阅读"},{"keyword_id":59,"name":"订单状态","example":"待支付"},{"keyword_id":60,"name":"线路名称","example":"呼伦贝尔北线"},{"keyword_id":61,"name":"出发时间","example":"2017-07-03"},{"keyword_id":62,"name":"温馨提示","example":"您的订单已付款成功，具体详情请查看订单详情"},{"keyword_id":63,"name":"场地数量","example":"2个"},{"keyword_id":64,"name":"姓名","example":"李三"},{"keyword_id":65,"name":"身份证号","example":"6xxxxxxxxxxxxxx"},{"keyword_id":66,"name":"收款方","example":"创骐云课堂"},{"keyword_id":67,"name":"商品数量","example":"1个"},{"keyword_id":68,"name":"订单验证码","example":"112233"},{"keyword_id":69,"name":"使用时长","example":"30分钟"},{"keyword_id":70,"name":"商品类型","example":"农产品、服务"},{"keyword_id":71,"name":"信息费","example":"10"},{"keyword_id":72,"name":"产品型号","example":"DG-8018-家用"},{"keyword_id":73,"name":"价位","example":"3600元"},{"keyword_id":74,"name":"尺寸","example":"290mm*290mm*790mm（10kg）"},{"keyword_id":75,"name":"电压","example":"220v\/50hz，功率：~65W"},{"keyword_id":76,"name":"颗粒物负离子","example":"600立方米\/1000万PCS立方米"},{"keyword_id":77,"name":"取货地址","example":"中华广场1楼201桃园文化馆"},{"keyword_id":78,"name":"取货时间","example":"11月15日 18:00~20:00"},{"keyword_id":79,"name":"取货码","example":"501"},{"keyword_id":80,"name":"优惠卡号","example":"17000201710161001"},{"keyword_id":81,"name":"优惠数量","example":"10个"},{"keyword_id":82,"name":"支付明细","example":"积分5，现金20"},{"keyword_id":83,"name":"课时费","example":"100"},{"keyword_id":84,"name":"年费","example":"3800"},{"keyword_id":85,"name":"就餐人数","example":"3人"},{"keyword_id":86,"name":"预约医生","example":"扁鹊"},{"keyword_id":87,"name":"预约时间","example":"2017-10-19"},{"keyword_id":88,"name":"押金金额","example":"¥298.00"},{"keyword_id":89,"name":"活动名称","example":"公益画展"},{"keyword_id":90,"name":"话费","example":"话费"},{"keyword_id":91,"name":"积分","example":"积分"},{"keyword_id":92,"name":"联系客服","example":"客服"},{"keyword_id":93,"name":"订单优惠","example":"50.00"},{"keyword_id":94,"name":"转账时间","example":"2018-01-23   16：45：41"},{"keyword_id":95,"name":"桌位名称","example":"2号桌位"},{"keyword_id":96,"name":"服务费","example":"1000"},{"keyword_id":97,"name":"认证费","example":"100"},{"keyword_id":98,"name":"服务内容","example":"CAD制图3张，LOGO设计1个"},{"keyword_id":99,"name":"业务经理","example":"张三"},{"keyword_id":100,"name":"手机号","example":"1380000000"}]}
+--------
+NULL  
+[2018-11-02 11:33:54] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/add?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 37
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"id":"AT0005","keyword_id_list":[3]}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:33:54 GMT
+Content-Length: 87
+
+{"errcode":0,"errmsg":"ok","template_id":"trnk-crFss9upHUnxvWfGqLDsvpQI1t2iWWxJL10JGU"}
+--------
+NULL  
+[2018-11-02 11:33:54] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":3}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:33:54 GMT
+Content-Length: 37
+
+{"errcode":0,"errmsg":"ok","list":[]}
+--------
+NULL  
+[2018-11-02 11:34:40] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/library/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":1}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:34:40 GMT
+Content-Length: 100
+
+{"errcode":0,"errmsg":"ok","list":[{"id":"AT0005","title":"付款成功通知"}],"total_count":2431}
+--------
+NULL  
+[2018-11-02 11:34:40] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/library/get?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 15
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"id":"AT0005"}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:34:40 GMT
+Content-Length: 6642
+
+{"errcode":0,"errmsg":"ok","id":"AT0005","title":"付款成功通知","keyword_list":[{"keyword_id":1,"name":"物品名称","example":"果汁"},{"keyword_id":2,"name":"付款时间","example":"2016年9月9日"},{"keyword_id":3,"name":"付款金额","example":"8元"},{"keyword_id":4,"name":"地点","example":"TIT时尚造舰中心"},{"keyword_id":5,"name":"产品名称","example":"国泰基金3367期"},{"keyword_id":6,"name":"累计净值","example":"1.0000"},{"keyword_id":7,"name":"产品期限","example":"18个月"},{"keyword_id":8,"name":"投资日期","example":"2017-01-09"},{"keyword_id":9,"name":"投资金额","example":"￥1,000,000.00"},{"keyword_id":10,"name":"付款ID","example":"18181818"},{"keyword_id":11,"name":"酒店名","example":"希尔顿酒店"},{"keyword_id":12,"name":"单号","example":"12345567"},{"keyword_id":13,"name":"商家名称","example":"早安豆浆店"},{"keyword_id":14,"name":"车牌号","example":"苏A00000"},{"keyword_id":15,"name":"服务项目","example":"汽车保养"},{"keyword_id":16,"name":"门店","example":"汽车4s店"},{"keyword_id":17,"name":"租金月份","example":"2017年03月"},{"keyword_id":18,"name":"支付时间","example":"2017-03-17 15:00:23"},{"keyword_id":19,"name":"支付租金","example":"1200"},{"keyword_id":20,"name":"房间号","example":"1305"},{"keyword_id":21,"name":"实付金额","example":"100元"},{"keyword_id":22,"name":"订单编号","example":"123658635455"},{"keyword_id":23,"name":"商品详情","example":"美式咖啡x1"},{"keyword_id":24,"name":"支付方式","example":"微信支付"},{"keyword_id":25,"name":"备注说明","example":"加奶"},{"keyword_id":26,"name":"预订场地","example":"恒生科技园"},{"keyword_id":27,"name":"商品信息","example":"鱼香肉丝"},{"keyword_id":28,"name":"学费 ","example":"C1    C2"},{"keyword_id":29,"name":"付款人","example":"王**"},{"keyword_id":30,"name":"数量","example":"1"},{"keyword_id":31,"name":"收货地址","example":"广东省广州市白云区白云大道103号"},{"keyword_id":32,"name":"订单总价","example":"100.00"},{"keyword_id":33,"name":"下单时间","example":"2017.07.07"},{"keyword_id":34,"name":"课程名称","example":"如何打造爆品文章"},{"keyword_id":35,"name":"开课时间","example":"2017-01-04  20:30"},{"keyword_id":36,"name":"授课讲师","example":"王老师"},{"keyword_id":37,"name":"账户余额","example":"¥ 12200.00"},{"keyword_id":38,"name":"发票抬头","example":"陕西同纳信息技术有限公司"},{"keyword_id":39,"name":"纳税人识别号","example":"91610131786995379C"},{"keyword_id":40,"name":"使用时段","example":"7月28日 15:00 至 7月28日18:00"},{"keyword_id":41,"name":"场地电话","example":"0755-78900002"},{"keyword_id":42,"name":"寄养人","example":"寄养人   "},{"keyword_id":43,"name":"寄养品种    ","example":"寄养品种       "},{"keyword_id":44,"name":"寄养日期    ","example":"寄养日期    "},{"keyword_id":45,"name":"疫苗情况  ","example":"疫苗情况   "},{"keyword_id":46,"name":"年龄","example":"年龄   "},{"keyword_id":47,"name":"手机型号","example":"R11"},{"keyword_id":48,"name":"颜色","example":"玫瑰金"},{"keyword_id":49,"name":"价格","example":"2999"},{"keyword_id":50,"name":"取机地址","example":"八一路一峰斜对面oppo专卖店"},{"keyword_id":51,"name":"开始时间","example":"2017-08-11 16:20"},{"keyword_id":52,"name":"结束时间","example":"2017-08-11 16:50"},{"keyword_id":53,"name":"取货位置","example":"北京市大兴区高米店南红木林1-2-3"},{"keyword_id":54,"name":"送货位置","example":"北京市大兴区高米店南红木林1-2-3"},{"keyword_id":55,"name":"联系电话","example":"19876543212"},{"keyword_id":56,"name":"共计公里数","example":"12.00公里"},{"keyword_id":57,"name":"共计金额","example":"200.00元"},{"keyword_id":58,"name":"付费类型","example":"付费阅读"},{"keyword_id":59,"name":"订单状态","example":"待支付"},{"keyword_id":60,"name":"线路名称","example":"呼伦贝尔北线"},{"keyword_id":61,"name":"出发时间","example":"2017-07-03"},{"keyword_id":62,"name":"温馨提示","example":"您的订单已付款成功，具体详情请查看订单详情"},{"keyword_id":63,"name":"场地数量","example":"2个"},{"keyword_id":64,"name":"姓名","example":"李三"},{"keyword_id":65,"name":"身份证号","example":"6xxxxxxxxxxxxxx"},{"keyword_id":66,"name":"收款方","example":"创骐云课堂"},{"keyword_id":67,"name":"商品数量","example":"1个"},{"keyword_id":68,"name":"订单验证码","example":"112233"},{"keyword_id":69,"name":"使用时长","example":"30分钟"},{"keyword_id":70,"name":"商品类型","example":"农产品、服务"},{"keyword_id":71,"name":"信息费","example":"10"},{"keyword_id":72,"name":"产品型号","example":"DG-8018-家用"},{"keyword_id":73,"name":"价位","example":"3600元"},{"keyword_id":74,"name":"尺寸","example":"290mm*290mm*790mm（10kg）"},{"keyword_id":75,"name":"电压","example":"220v\/50hz，功率：~65W"},{"keyword_id":76,"name":"颗粒物负离子","example":"600立方米\/1000万PCS立方米"},{"keyword_id":77,"name":"取货地址","example":"中华广场1楼201桃园文化馆"},{"keyword_id":78,"name":"取货时间","example":"11月15日 18:00~20:00"},{"keyword_id":79,"name":"取货码","example":"501"},{"keyword_id":80,"name":"优惠卡号","example":"17000201710161001"},{"keyword_id":81,"name":"优惠数量","example":"10个"},{"keyword_id":82,"name":"支付明细","example":"积分5，现金20"},{"keyword_id":83,"name":"课时费","example":"100"},{"keyword_id":84,"name":"年费","example":"3800"},{"keyword_id":85,"name":"就餐人数","example":"3人"},{"keyword_id":86,"name":"预约医生","example":"扁鹊"},{"keyword_id":87,"name":"预约时间","example":"2017-10-19"},{"keyword_id":88,"name":"押金金额","example":"¥298.00"},{"keyword_id":89,"name":"活动名称","example":"公益画展"},{"keyword_id":90,"name":"话费","example":"话费"},{"keyword_id":91,"name":"积分","example":"积分"},{"keyword_id":92,"name":"联系客服","example":"客服"},{"keyword_id":93,"name":"订单优惠","example":"50.00"},{"keyword_id":94,"name":"转账时间","example":"2018-01-23   16：45：41"},{"keyword_id":95,"name":"桌位名称","example":"2号桌位"},{"keyword_id":96,"name":"服务费","example":"1000"},{"keyword_id":97,"name":"认证费","example":"100"},{"keyword_id":98,"name":"服务内容","example":"CAD制图3张，LOGO设计1个"},{"keyword_id":99,"name":"业务经理","example":"张三"},{"keyword_id":100,"name":"手机号","example":"1380000000"}]}
+--------
+NULL  
+[2018-11-02 11:34:40] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/add?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 39
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"id":"AT0005","keyword_id_list":[1,3]}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:34:40 GMT
+Content-Length: 87
+
+{"errcode":0,"errmsg":"ok","template_id":"trnk-crFss9upHUnxvWfGhzljo_uY0SYU7CzZsd_UXo"}
+--------
+NULL  
+[2018-11-02 11:34:40] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":3}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:34:40 GMT
+Content-Length: 37
+
+{"errcode":0,"errmsg":"ok","list":[]}
+--------
+NULL  
+[2018-11-02 11:35:09] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":3}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:35:09 GMT
+Content-Length: 37
+
+{"errcode":0,"errmsg":"ok","list":[]}
+--------
+NULL  
+[2018-11-02 11:35:21] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":3}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:35:21 GMT
+Content-Length: 37
+
+{"errcode":0,"errmsg":"ok","list":[]}
+--------
+NULL  
+[2018-11-02 11:35:29] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":1,"count":3}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:35:29 GMT
+Content-Length: 428
+
+{"errcode":0,"errmsg":"ok","list":[{"template_id":"trnk-crFss9upHUnxvWfGqLDsvpQI1t2iWWxJL10JGU","title":"付款成功通知","content":"付款金额{{keyword1.DATA}}\n","example":"付款金额：8元\n"},{"template_id":"trnk-crFss9upHUnxvWfGhzljo_uY0SYU7CzZsd_UXo","title":"付款成功通知","content":"物品名称{{keyword1.DATA}}\n付款金额{{keyword2.DATA}}\n","example":"物品名称：果汁\n付款金额：8元\n"}]}
+--------
+NULL  
+[2018-11-02 11:39:31] NULL.INFO: >>>>>>>>
+POST /cgi-bin/message/wxopen/template/send?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 276
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"touser":"ouU_r4pvle0iC3NvAdctLejboXZo","template_id":"trnk-crFss9upHUnxvWfGqLDsvpQI1t2iWWxJL10JGU","page":"index","form_id":"from_id","data":{"title":{"value":"付款成功通知"},"content":{"value":"付款金额"},"example":{"value":"这个是啥"}},"emphasis_keyword":""}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:39:31 GMT
+Content-Length: 67
+
+{"errcode":41028,"errmsg":"invalid form id hint: [q7G8ea09713116]"}
+--------
+NULL  
+[2018-11-02 11:39:58] NULL.INFO: >>>>>>>>
+POST /cgi-bin/message/wxopen/template/send?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 276
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"touser":"ouU_r4g10X0aTA3693OahlvonKgQ","template_id":"trnk-crFss9upHUnxvWfGqLDsvpQI1t2iWWxJL10JGU","page":"index","form_id":"from_id","data":{"title":{"value":"付款成功通知"},"content":{"value":"付款金额"},"example":{"value":"这个是啥"}},"emphasis_keyword":""}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:39:58 GMT
+Content-Length: 67
+
+{"errcode":41028,"errmsg":"invalid form id hint: [BmKEha0997shb1]"}
+--------
+NULL  
+[2018-11-02 11:40:16] NULL.INFO: >>>>>>>>
+POST /cgi-bin/message/wxopen/template/send?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 276
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"touser":"ouU_r4g10X0aTA3693OahlvonKgQ","template_id":"trnk-crFss9upHUnxvWfGqLDsvpQI1t2iWWxJL10JGU","page":"index","form_id":"from_id","data":{"title":{"value":"付款成功通知"},"content":{"value":"付款金额"},"example":{"value":"这个是啥"}},"emphasis_keyword":""}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:40:16 GMT
+Content-Length: 67
+
+{"errcode":41028,"errmsg":"invalid form id hint: [O0V07a00163935]"}
+--------
+NULL  
+[2018-11-02 11:41:43] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/library/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 23
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":10}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:41:43 GMT
+Content-Length: 538
+
+{"errcode":0,"errmsg":"ok","list":[{"id":"AT0005","title":"付款成功通知"},{"id":"AT0006","title":"付款失败通知"},{"id":"AT0007","title":"订单发货提醒"},{"id":"AT0008","title":"待付款提醒"},{"id":"AT0009","title":"订单支付成功通知"},{"id":"AT0010","title":"订单支付失败通知"},{"id":"AT0011","title":"酒店预订成功通知"},{"id":"AT0012","title":"酒店预订失败通知"},{"id":"AT0013","title":"机票预订成功通知"},{"id":"AT0014","title":"机票预订失败通知"}],"total_count":2431}
+--------
+NULL  
+[2018-11-02 11:42:10] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/library/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 23
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":10}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:42:09 GMT
+Content-Length: 538
+
+{"errcode":0,"errmsg":"ok","list":[{"id":"AT0005","title":"付款成功通知"},{"id":"AT0006","title":"付款失败通知"},{"id":"AT0007","title":"订单发货提醒"},{"id":"AT0008","title":"待付款提醒"},{"id":"AT0009","title":"订单支付成功通知"},{"id":"AT0010","title":"订单支付失败通知"},{"id":"AT0011","title":"酒店预订成功通知"},{"id":"AT0012","title":"酒店预订失败通知"},{"id":"AT0013","title":"机票预订成功通知"},{"id":"AT0014","title":"机票预订失败通知"}],"total_count":2431}
+--------
+NULL  
+[2018-11-02 11:42:10] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/library/get?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 15
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"id":"AT0007"}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:42:10 GMT
+Content-Length: 6742
+
+{"errcode":0,"errmsg":"ok","id":"AT0007","title":"订单发货提醒","keyword_list":[{"keyword_id":2,"name":"快递公司","example":"TIT造舰快递"},{"keyword_id":3,"name":"发货时间","example":"2016年8月9日"},{"keyword_id":4,"name":"购买时间","example":"2016年8月8日"},{"keyword_id":5,"name":"物品名称","example":"电风扇"},{"keyword_id":6,"name":"发货平台","example":"京东商城"},{"keyword_id":7,"name":"订单号","example":"287368726886"},{"keyword_id":8,"name":"充值金额","example":"50"},{"keyword_id":9,"name":"充值状态","example":"成功"},{"keyword_id":10,"name":"充值账户","example":"36281768789"},{"keyword_id":11,"name":"查收方式","example":"手机短信"},{"keyword_id":12,"name":"物品面额","example":"100"},{"keyword_id":13,"name":"有效期","example":"2016年12月15日"},{"keyword_id":14,"name":"兑换码","example":"653235421"},{"keyword_id":15,"name":"客服咨询","example":"4001123123"},{"keyword_id":16,"name":"使用方法","example":"请在万达电影APP>个人中心>钱包中兑换使用。"},{"keyword_id":17,"name":"温馨提示","example":"请尽快前往个人中心-参与记录确认信息，超过7天将视为自动放弃"},{"keyword_id":18,"name":"会员名称","example":"ECHO"},{"keyword_id":19,"name":"收货地址","example":"浙江温州鹿城区聚盟商10楼"},{"keyword_id":20,"name":"订单编号","example":"20161031162645020777"},{"keyword_id":21,"name":"物流公司","example":"申通"},{"keyword_id":22,"name":"物流单号","example":"Y123456789"},{"keyword_id":23,"name":"快递单号","example":"1002598019811"},{"keyword_id":24,"name":"演出名称","example":"张学友2016年全球巡回演唱会上海站"},{"keyword_id":25,"name":"票品信息","example":"￥300（内场） 2份"},{"keyword_id":26,"name":"订单状态","example":"订单派送中"},{"keyword_id":27,"name":"快递追踪","example":"全程监控商品路线"},{"keyword_id":28,"name":"目的地","example":"福建  泉州"},{"keyword_id":29,"name":"工作单位","example":"北部湾西大东门支行"},{"keyword_id":33,"name":"运单号","example":"3326760853816"},{"keyword_id":34,"name":"配送方式","example":"送货上门"},{"keyword_id":35,"name":"商家","example":"红炉烘焙坊"},{"keyword_id":36,"name":"色卡代码","example":"C315"},{"keyword_id":37,"name":"选定式样","example":"女式圆领"},{"keyword_id":38,"name":"衣长","example":"70"},{"keyword_id":39,"name":"袖长","example":"60"},{"keyword_id":40,"name":"胸围","example":"90"},{"keyword_id":41,"name":"安装时间","example":"2017年05月05日"},{"keyword_id":42,"name":"保修范围","example":"灯具，淋浴房，卫浴"},{"keyword_id":43,"name":"保修日期","example":"2017年05月至2018年5月"},{"keyword_id":44,"name":"购买性质","example":"1年【1次】"},{"keyword_id":45,"name":"付费金额","example":"60元"},{"keyword_id":46,"name":"商品类别","example":"包年"},{"keyword_id":47,"name":"购买日期","example":"2017年05月05日"},{"keyword_id":48,"name":"有效期限","example":"2017年05月---2018年05月"},{"keyword_id":49,"name":"客户姓名","example":"李观兰"},{"keyword_id":50,"name":"客户地址","example":"吴川第一城2栋1801"},{"keyword_id":51,"name":"姓名","example":"李一"},{"keyword_id":52,"name":"电话","example":"12345678"},{"keyword_id":53,"name":"地址","example":"沿江路1号"},{"keyword_id":54,"name":"服务类别","example":"包年"},{"keyword_id":55,"name":"留言","example":"上门前半小时通知我"},{"keyword_id":57,"name":"产品","example":"素食全餐"},{"keyword_id":58,"name":"价格","example":"159元"},{"keyword_id":59,"name":"商品名称","example":"商品名称"},{"keyword_id":60,"name":"查货电话","example":"0760-87556386"},{"keyword_id":61,"name":"托运单号","example":"1124555"},{"keyword_id":62,"name":"服务项目","example":"代写"},{"keyword_id":63,"name":"支付方式","example":"寄付"},{"keyword_id":64,"name":"发货地址","example":"广东省深圳市南山区粤海街道"},{"keyword_id":65,"name":"距离","example":"1.969公里"},{"keyword_id":66,"name":"订单总价","example":"20元"},{"keyword_id":67,"name":"订单类型","example":"快车两单"},{"keyword_id":68,"name":"是否拼单","example":"否"},{"keyword_id":69,"name":"收货人","example":"黄颖"},{"keyword_id":70,"name":"收货人电话","example":"150…0805"},{"keyword_id":71,"name":"物流官网","example":"www.eastinter.cc"},{"keyword_id":72,"name":"配送员电话","example":"18888888888"},{"keyword_id":73,"name":"总订单","example":"0单（￥0.00）"},{"keyword_id":76,"name":"待发货","example":"0单（￥0.00）"},{"keyword_id":77,"name":"下单时间","example":"07：00"},{"keyword_id":78,"name":"商户详情","example":"到付"},{"keyword_id":79,"name":"施工人员","example":"李某"},{"keyword_id":81,"name":"店铺名称","example":"蛋糕鲜花"},{"keyword_id":82,"name":"购买金额","example":"购买金额"},{"keyword_id":83,"name":"数量","example":"100"},{"keyword_id":84,"name":"代收款","example":"100"},{"keyword_id":85,"name":"接单时间","example":"接单时间"},{"keyword_id":87,"name":"会员名字","example":"刘得划"},{"keyword_id":88,"name":"型号","example":"XL"},{"keyword_id":89,"name":"到账时间","example":"到账时间"},{"keyword_id":90,"name":"报名时间","example":"2017.08.14"},{"keyword_id":91,"name":"报名日期","example":"2017.08.14"},{"keyword_id":92,"name":"寄件人电话","example":"131123456789"},{"keyword_id":93,"name":"联系电话","example":"131123456789"},{"keyword_id":94,"name":"充值码","example":"ABCD123456"},{"keyword_id":95,"name":"商品清单","example":"商品A等商品"},{"keyword_id":96,"name":"商品信息","example":"女士丝袜夏季薄款中筒袜子。。。"},{"keyword_id":97,"name":"门店环境","example":"门店环境"},{"keyword_id":98,"name":"分店名称","example":"一号店"},{"keyword_id":99,"name":"订单内容","example":"肉三鲜（5），海鲜（7）"},{"keyword_id":100,"name":"送餐电话","example":"13891318161"},{"keyword_id":101,"name":"到达时间","example":"1：30--1：50"},{"keyword_id":102,"name":"货物信息","example":"DX55-9C\/20889"},{"keyword_id":103,"name":"要求到达","example":"2017年9月30日12点之前到达"},{"keyword_id":104,"name":"订单金额","example":"￥0.00"},{"keyword_id":105,"name":"付款方式","example":"微信支付"},{"keyword_id":106,"name":"备注","example":"卖家已发货，请注意查收！"},{"keyword_id":107,"name":"卡密信息","example":"卡号：CA120887612"},{"keyword_id":108,"name":"预计收货时间","example":"2017年11月11日"},{"keyword_id":109,"name":"取件码","example":"123-456"}]}
+--------
+NULL  
+[2018-11-02 11:42:49] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/library/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 23
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":3,"count":10}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:42:49 GMT
+Content-Length: 538
+
+{"errcode":0,"errmsg":"ok","list":[{"id":"AT0005","title":"付款成功通知"},{"id":"AT0006","title":"付款失败通知"},{"id":"AT0007","title":"订单发货提醒"},{"id":"AT0008","title":"待付款提醒"},{"id":"AT0009","title":"订单支付成功通知"},{"id":"AT0010","title":"订单支付失败通知"},{"id":"AT0011","title":"酒店预订成功通知"},{"id":"AT0012","title":"酒店预订失败通知"},{"id":"AT0013","title":"机票预订成功通知"},{"id":"AT0014","title":"机票预订失败通知"}],"total_count":2431}
+--------
+NULL  
+[2018-11-02 11:42:49] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/library/get?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 15
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"id":"AT0007"}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:42:49 GMT
+Content-Length: 6742
+
+{"errcode":0,"errmsg":"ok","id":"AT0007","title":"订单发货提醒","keyword_list":[{"keyword_id":2,"name":"快递公司","example":"TIT造舰快递"},{"keyword_id":3,"name":"发货时间","example":"2016年8月9日"},{"keyword_id":4,"name":"购买时间","example":"2016年8月8日"},{"keyword_id":5,"name":"物品名称","example":"电风扇"},{"keyword_id":6,"name":"发货平台","example":"京东商城"},{"keyword_id":7,"name":"订单号","example":"287368726886"},{"keyword_id":8,"name":"充值金额","example":"50"},{"keyword_id":9,"name":"充值状态","example":"成功"},{"keyword_id":10,"name":"充值账户","example":"36281768789"},{"keyword_id":11,"name":"查收方式","example":"手机短信"},{"keyword_id":12,"name":"物品面额","example":"100"},{"keyword_id":13,"name":"有效期","example":"2016年12月15日"},{"keyword_id":14,"name":"兑换码","example":"653235421"},{"keyword_id":15,"name":"客服咨询","example":"4001123123"},{"keyword_id":16,"name":"使用方法","example":"请在万达电影APP>个人中心>钱包中兑换使用。"},{"keyword_id":17,"name":"温馨提示","example":"请尽快前往个人中心-参与记录确认信息，超过7天将视为自动放弃"},{"keyword_id":18,"name":"会员名称","example":"ECHO"},{"keyword_id":19,"name":"收货地址","example":"浙江温州鹿城区聚盟商10楼"},{"keyword_id":20,"name":"订单编号","example":"20161031162645020777"},{"keyword_id":21,"name":"物流公司","example":"申通"},{"keyword_id":22,"name":"物流单号","example":"Y123456789"},{"keyword_id":23,"name":"快递单号","example":"1002598019811"},{"keyword_id":24,"name":"演出名称","example":"张学友2016年全球巡回演唱会上海站"},{"keyword_id":25,"name":"票品信息","example":"￥300（内场） 2份"},{"keyword_id":26,"name":"订单状态","example":"订单派送中"},{"keyword_id":27,"name":"快递追踪","example":"全程监控商品路线"},{"keyword_id":28,"name":"目的地","example":"福建  泉州"},{"keyword_id":29,"name":"工作单位","example":"北部湾西大东门支行"},{"keyword_id":33,"name":"运单号","example":"3326760853816"},{"keyword_id":34,"name":"配送方式","example":"送货上门"},{"keyword_id":35,"name":"商家","example":"红炉烘焙坊"},{"keyword_id":36,"name":"色卡代码","example":"C315"},{"keyword_id":37,"name":"选定式样","example":"女式圆领"},{"keyword_id":38,"name":"衣长","example":"70"},{"keyword_id":39,"name":"袖长","example":"60"},{"keyword_id":40,"name":"胸围","example":"90"},{"keyword_id":41,"name":"安装时间","example":"2017年05月05日"},{"keyword_id":42,"name":"保修范围","example":"灯具，淋浴房，卫浴"},{"keyword_id":43,"name":"保修日期","example":"2017年05月至2018年5月"},{"keyword_id":44,"name":"购买性质","example":"1年【1次】"},{"keyword_id":45,"name":"付费金额","example":"60元"},{"keyword_id":46,"name":"商品类别","example":"包年"},{"keyword_id":47,"name":"购买日期","example":"2017年05月05日"},{"keyword_id":48,"name":"有效期限","example":"2017年05月---2018年05月"},{"keyword_id":49,"name":"客户姓名","example":"李观兰"},{"keyword_id":50,"name":"客户地址","example":"吴川第一城2栋1801"},{"keyword_id":51,"name":"姓名","example":"李一"},{"keyword_id":52,"name":"电话","example":"12345678"},{"keyword_id":53,"name":"地址","example":"沿江路1号"},{"keyword_id":54,"name":"服务类别","example":"包年"},{"keyword_id":55,"name":"留言","example":"上门前半小时通知我"},{"keyword_id":57,"name":"产品","example":"素食全餐"},{"keyword_id":58,"name":"价格","example":"159元"},{"keyword_id":59,"name":"商品名称","example":"商品名称"},{"keyword_id":60,"name":"查货电话","example":"0760-87556386"},{"keyword_id":61,"name":"托运单号","example":"1124555"},{"keyword_id":62,"name":"服务项目","example":"代写"},{"keyword_id":63,"name":"支付方式","example":"寄付"},{"keyword_id":64,"name":"发货地址","example":"广东省深圳市南山区粤海街道"},{"keyword_id":65,"name":"距离","example":"1.969公里"},{"keyword_id":66,"name":"订单总价","example":"20元"},{"keyword_id":67,"name":"订单类型","example":"快车两单"},{"keyword_id":68,"name":"是否拼单","example":"否"},{"keyword_id":69,"name":"收货人","example":"黄颖"},{"keyword_id":70,"name":"收货人电话","example":"150…0805"},{"keyword_id":71,"name":"物流官网","example":"www.eastinter.cc"},{"keyword_id":72,"name":"配送员电话","example":"18888888888"},{"keyword_id":73,"name":"总订单","example":"0单（￥0.00）"},{"keyword_id":76,"name":"待发货","example":"0单（￥0.00）"},{"keyword_id":77,"name":"下单时间","example":"07：00"},{"keyword_id":78,"name":"商户详情","example":"到付"},{"keyword_id":79,"name":"施工人员","example":"李某"},{"keyword_id":81,"name":"店铺名称","example":"蛋糕鲜花"},{"keyword_id":82,"name":"购买金额","example":"购买金额"},{"keyword_id":83,"name":"数量","example":"100"},{"keyword_id":84,"name":"代收款","example":"100"},{"keyword_id":85,"name":"接单时间","example":"接单时间"},{"keyword_id":87,"name":"会员名字","example":"刘得划"},{"keyword_id":88,"name":"型号","example":"XL"},{"keyword_id":89,"name":"到账时间","example":"到账时间"},{"keyword_id":90,"name":"报名时间","example":"2017.08.14"},{"keyword_id":91,"name":"报名日期","example":"2017.08.14"},{"keyword_id":92,"name":"寄件人电话","example":"131123456789"},{"keyword_id":93,"name":"联系电话","example":"131123456789"},{"keyword_id":94,"name":"充值码","example":"ABCD123456"},{"keyword_id":95,"name":"商品清单","example":"商品A等商品"},{"keyword_id":96,"name":"商品信息","example":"女士丝袜夏季薄款中筒袜子。。。"},{"keyword_id":97,"name":"门店环境","example":"门店环境"},{"keyword_id":98,"name":"分店名称","example":"一号店"},{"keyword_id":99,"name":"订单内容","example":"肉三鲜（5），海鲜（7）"},{"keyword_id":100,"name":"送餐电话","example":"13891318161"},{"keyword_id":101,"name":"到达时间","example":"1：30--1：50"},{"keyword_id":102,"name":"货物信息","example":"DX55-9C\/20889"},{"keyword_id":103,"name":"要求到达","example":"2017年9月30日12点之前到达"},{"keyword_id":104,"name":"订单金额","example":"￥0.00"},{"keyword_id":105,"name":"付款方式","example":"微信支付"},{"keyword_id":106,"name":"备注","example":"卖家已发货，请注意查收！"},{"keyword_id":107,"name":"卡密信息","example":"卡号：CA120887612"},{"keyword_id":108,"name":"预计收货时间","example":"2017年11月11日"},{"keyword_id":109,"name":"取件码","example":"123-456"}]}
+--------
+NULL  
+[2018-11-02 11:42:49] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/add?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 39
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"id":"AT0007","keyword_id_list":[2,3]}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:42:49 GMT
+Content-Length: 87
+
+{"errcode":0,"errmsg":"ok","template_id":"wINPzjIDYmzuVAOrwSAXn6StlFz9S9lRVnGnXilpZUQ"}
+--------
+NULL  
+[2018-11-02 11:42:49] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":1,"count":1}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:42:49 GMT
+Content-Length: 205
+
+{"errcode":0,"errmsg":"ok","list":[{"template_id":"trnk-crFss9upHUnxvWfGqLDsvpQI1t2iWWxJL10JGU","title":"付款成功通知","content":"付款金额{{keyword1.DATA}}\n","example":"付款金额：8元\n"}]}
+--------
+NULL  
+[2018-11-02 11:43:11] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":1,"count":3}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:43:11 GMT
+Content-Length: 671
+
+{"errcode":0,"errmsg":"ok","list":[{"template_id":"trnk-crFss9upHUnxvWfGqLDsvpQI1t2iWWxJL10JGU","title":"付款成功通知","content":"付款金额{{keyword1.DATA}}\n","example":"付款金额：8元\n"},{"template_id":"trnk-crFss9upHUnxvWfGhzljo_uY0SYU7CzZsd_UXo","title":"付款成功通知","content":"物品名称{{keyword1.DATA}}\n付款金额{{keyword2.DATA}}\n","example":"物品名称：果汁\n付款金额：8元\n"},{"template_id":"wINPzjIDYmzuVAOrwSAXn6StlFz9S9lRVnGnXilpZUQ","title":"订单发货提醒","content":"快递公司{{keyword1.DATA}}\n发货时间{{keyword2.DATA}}\n","example":"快递公司：TIT造舰快递\n发货时间：2016年8月9日\n"}]}
+--------
+NULL  
+[2018-11-02 11:43:40] NULL.INFO: >>>>>>>>
+POST /cgi-bin/wxopen/template/list?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 22
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"offset":1,"count":3}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:43:40 GMT
+Content-Length: 671
+
+{"errcode":0,"errmsg":"ok","list":[{"template_id":"trnk-crFss9upHUnxvWfGqLDsvpQI1t2iWWxJL10JGU","title":"付款成功通知","content":"付款金额{{keyword1.DATA}}\n","example":"付款金额：8元\n"},{"template_id":"trnk-crFss9upHUnxvWfGhzljo_uY0SYU7CzZsd_UXo","title":"付款成功通知","content":"物品名称{{keyword1.DATA}}\n付款金额{{keyword2.DATA}}\n","example":"物品名称：果汁\n付款金额：8元\n"},{"template_id":"wINPzjIDYmzuVAOrwSAXn6StlFz9S9lRVnGnXilpZUQ","title":"订单发货提醒","content":"快递公司{{keyword1.DATA}}\n发货时间{{keyword2.DATA}}\n","example":"快递公司：TIT造舰快递\n发货时间：2016年8月9日\n"}]}
+--------
+NULL  
+[2018-11-02 11:43:56] NULL.INFO: >>>>>>>>
+POST /cgi-bin/message/wxopen/template/send?access_token=15_DNQW3lcrHu-PXTpLrjbR0lSzDqtWim7ZJ-GljXDNlaFnajVKXTxvkBFw4Ot_usjgV1NNUg5WvdFdtQts_T1TSRD5JnlkJJbGXOEG0bk-NX0CWsFd4ZDGZ3X_XAzlBVqgttUq2XhRMY36Pi0KODDdAEASHH HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 276
+User-Agent: GuzzleHttp/6.3.3 curl/7.54.0 PHP/7.1.16
+Content-Type: application/json
+
+{"touser":"ouU_r4g10X0aTA3693OahlvonKgQ","template_id":"wINPzjIDYmzuVAOrwSAXn6StlFz9S9lRVnGnXilpZUQ","page":"index","form_id":"from_id","data":{"title":{"value":"付款成功通知"},"content":{"value":"付款金额"},"example":{"value":"这个是啥"}},"emphasis_keyword":""}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Fri, 02 Nov 2018 03:43:56 GMT
+Content-Length: 66
+
+{"errcode":41028,"errmsg":"invalid form id hint: [V1aX802364120]"}
+--------
+NULL  
